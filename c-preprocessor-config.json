@@ -2,6 +2,7 @@
   "constants": {
     "D_NAME": "MyWish Token",
     "D_SYMBOL": "WISH",
-    "D_OWNER": "0x8ffff2c69f000c790809f6b8f9abfcbaab46b322"
+    "D_OWNER": "0x8ffff2c69f000c790809f6b8f9abfcbaab46b322",
+    "D_URI": "https://mywish.io/"
   }
 }
