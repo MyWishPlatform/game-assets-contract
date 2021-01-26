@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "c-preprocessor": "^0.2.12",
-    "sc-library": "github:MyWishPlatform/sc-library#0.7.1",
-    "tronbox": "^2.3.4"
+    "sc-library": "github:MyWishPlatform/sc-library#0.7.2",
+    "tronbox": "^2.7.14"
   }
 }

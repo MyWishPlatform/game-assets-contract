@@ -17,6 +17,17 @@ module.exports = {
       fullHost: "http://testnet.tronish.io",
 
       network_id: "*"
+    },
+    compilers: {
+        solc: {
+            version: '0.4.25' // for compiler version
+        }
+    }
+  },
+  solc: {
+    optimizer: {
+        enabled: true, // enable solc optimize, default: false
+        runs: 200
     }
   }
 };
